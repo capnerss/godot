@@ -1,0 +1,23 @@
+[gd_scene format=2]
+
+[node name="mainmenu" type="Node2D"]
+
+[node name="Button" type="Button" parent="."]
+margin_left = 476.0
+margin_top = 383.0
+margin_right = 526.0
+margin_bottom = 403.0
+text = "START"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="."]
+margin_left = 450.0
+margin_top = 209.0
+margin_right = 548.0
+margin_bottom = 223.0
+text = "SUPER GAME!!!!"
+__meta__ = {
+"_edit_use_anchors_": false
+}
